@@ -1,0 +1,8 @@
+** comentario **
+until cond c:
+  num x = x+1
+  num y = 6.66.75
+  ** otro comentario *
+  letter b = "texto
+:c
+open vid
